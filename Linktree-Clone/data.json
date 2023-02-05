@@ -1,0 +1,34 @@
+{
+  "name": "Zahid Ali",
+  "avatar": "https://avatars.githubusercontent.com/u/37751705?v=4",
+  "links": [
+    {
+      "title": "My Personal Website",
+      "href": "https://zaahidali.github.io/",
+      "image": "https://avatars.githubusercontent.com/u/37751705?v=4"
+    },
+    {
+      "title": "Technical Blog - Dev.to",
+      "href": "https://dev.to/zahidali"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zaahidali/"
+    }
+  ],
+
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/zaahidali"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/zaahidali"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zaahidali/"
+    }
+  ]
+}
